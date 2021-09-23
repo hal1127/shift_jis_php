@@ -4,8 +4,6 @@ header('Content-Type: text/html; charset=Shift_JIS');
 
 mb_internal_encoding("Shift_JIS");
 
-// echo chr(hexdec("81")) . chr(hexdec("41"));
-
 ?>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 
